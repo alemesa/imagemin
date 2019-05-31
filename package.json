@@ -39,7 +39,7 @@
 		"imagemin-svgo": "^7.0.0",
 		"imagemin-webp": "^5.0.0",
 		"is-jpg": "^2.0.0",
-		"tempy": "^0.2.1",
+		"tempy": "^0.3.0",
 		"xo": "^0.23.0"
 	}
 }
